@@ -102,6 +102,10 @@ pagination:
 # -----------------------------------------------------------------------------
 # Collections
 collections:
+  service:
+    defaults:
+      layout: post
+    output: true
   news:
     defaults:
       layout: post
